@@ -1,1 +1,1 @@
-Demo [HERE](https://bruce-yu2017.github.io/react_image-search/)
+Demo [HERE](https://bruce-yu2017.github.io/React---Redux-Image-Search/)
